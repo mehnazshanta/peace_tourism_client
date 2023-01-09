@@ -10,7 +10,7 @@ import {
   signInWithPopup,
 } from "firebase/auth";
 import { useState } from "react";
-import app from "../../../firebase/dfsdf.config";
+import app from "../../../firebase/firebase.config";
 
 const auth = getAuth(app);
 
