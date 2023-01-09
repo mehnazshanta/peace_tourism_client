@@ -6,7 +6,7 @@ import {
   signOut,
   onAuthStateChanged,
 } from "firebase/auth";
-import app from "../../firebase/dfsdf.config";
+import app from "../../firebase/firebase.config";
 import { useState } from "react";
 import { useEffect } from "react";
 
